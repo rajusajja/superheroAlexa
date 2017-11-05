@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+
+<channel>
+	<title> "Superhero Update" </title>
+	<link>https://www.dropbox.com/</link>
+	<description>Latest Updates</description>
+
+	<item>
+		<title> Hero Update 1
+		</title>
+		<link>https://www.dropbox.com/s/fxtttegskrmfr8o/1.txt?dl=0</link>
+		<guid> 1 </guid>
+		<pubDate> Sat, 04 Nov 2017 04:20:01 EST </pubDate>
+		<description> From the hero union, here is the latest news. There is a bank robbery in progress at the corner of ferst and hemphill. Be sure to bring your yeezys, gun and whip the rari. Good luck Mr. Incredible! 	
+		</description>
+	</item>
+
+	<item>
+		<title> Hero Update2 </title>
+		<link>https://www.dropbox.com/s/h1lmq1dll8sydwg/2.txt?dl=0</link>
+		<guid> 2 </guid>
+		<pubDate> Sat, 04 Nov 2017 04:20:02 EST </pubDate>
+		<description> From the hero union, here is the latest news. There is a murder in progress at the corner of west ave and north ave. Be sure to bring your blanket, shield and whip the jag. Good luck Mr. Incredible!
+		</description>
+	</item>
+
+	<item>
+		<title> Hero Update 3
+		</title>
+		<link>https://www.dropbox.com/s/c79gvu5kmjj2tfg/3.txt?dl=0</link>
+		<guid> 3 </guid>
+		<pubDate> Sat, 04 Nov 2017 04:20:03 EST </pubDate>
+		<description> From the hero union, here is the latest news. There is a homocide in progress at the corner of main and keep. Be sure to bring your flip phone, love and whip the lambo. Good luck Mr. Incredible!
+		</description>
+	</item>
+ 	
+ 	<item>
+		<title> Hero Update 4 
+		</title>
+		<link>https://www.dropbox.com/s/47k0vxsrkvjeds2/5.txt?dl=0</link>
+		<guid> 5 </guid>
+		<pubDate> Sat, 04 Nov 2017 04:20:05 EST </pubDate>
+		<description> From the hero union, here is the latest news. There is a shootout in progress at the corner of north peactree and morganton. Be sure to bring your pillow, iron man suit and whip the bugatti. Good luck Mr. Incredible!
+		</description>
+	</item>
+
+	<item>
+		<title> Hero Update 5 
+		</title>
+		<link>https://www.dropbox.com/s/cmfio39zzgcr7vg/4.txt?dl=0</link>
+		<guid> 4 </guid>
+		<pubDate> Sat, 04 Nov 2017 04:20:04 EST </pubDate>
+		<description> From the hero union, here is the latest news. There is a hijacking in progress at the corner of gates and terrace. Be sure to bring your tights, mydaq and whip the odyssey. Good luck Mr. Incredible!
+		</description>
+	</item>
+
+</channel>
+
+</rss>
